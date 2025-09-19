@@ -1,0 +1,29 @@
+{
+  "general": {
+    "dark_mode": true,
+    "confirm_delete": true,
+    "open_folder_after_process": true,
+    "auto_save_config": true,
+    "window_width": 1200,
+    "window_height": 800
+  },
+  "pdf": {
+    "compression_quality": "Media",
+    "keep_metadata": true,
+    "optimize_for_web": false,
+    "default_output_format": "pagina_{:03d}",
+    "create_zip_by_default": true,
+    "max_file_size_mb": 100
+  },
+  "paths": {
+    "last_input_folder": "C:\\Users\\raulanto\\Documents",
+    "last_output_folder": "C:\\Users\\raulanto\\Pictures",
+    "default_output_folder": ""
+  },
+  "ui": {
+    "language": "es",
+    "show_tooltips": true,
+    "animation_enabled": true,
+    "compact_mode": false
+  }
+}
