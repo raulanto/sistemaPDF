@@ -1,6 +1,6 @@
 {
   "general": {
-    "dark_mode": true,
+    "dark_mode": false,
     "confirm_delete": true,
     "open_folder_after_process": true,
     "auto_save_config": true,
@@ -17,7 +17,7 @@
   },
   "paths": {
     "last_input_folder": "C:\\Users\\raulanto\\Documents",
-    "last_output_folder": "C:\\Users\\raulanto\\Pictures",
+    "last_output_folder": "C:\\Users\\raulanto\\Downloads\\pff",
     "default_output_folder": ""
   },
   "ui": {
